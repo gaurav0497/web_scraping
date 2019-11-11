@@ -1,0 +1,16 @@
+from bs4 import BeautifulSoup
+import requests as r
+
+response=r.get('https://www.flipkart.com/search?q=iphone&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off')
+l=BeautifulSoup(response.text,'lxml')
+z= l.find_all(class_="col col-7-12")
+g=open("new.txt",'w+')
+g.write("Flipcart iphone description scraping :")
+g.write("\n")
+for i in z:
+    g.write(i.get_text()[:15])
+    g.write("\n")
+    g.write(i.get_text()[15:])
+    g.write("\n")
+g.flush()
+g.close()

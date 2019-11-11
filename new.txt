@@ -1,0 +1,49 @@
+Flipcart iphone description scraping :
+Device name: Apple iPhone 7 
+Device desc: (Black, 32 GB)4.568,431 Ratings & 7,439 Reviews32 GB ROM |11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year.
+Device name: Apple iPhone 11
+Device desc:  (White, 64 GB)4.72,138 Ratings & 266 Reviews64 GB ROM |15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year.
+Device name: Apple iPhone 7 
+Device desc: (Gold, 32 GB)4.568,431 Ratings & 7,439 Reviews32 GB ROM |11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year.
+Device name: Apple iPhone 7 
+Device desc: (Rose Gold, 32 GB)4.568,431 Ratings & 7,439 Reviews32 GB ROM |11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year.
+Device name: Apple iPhone 7 
+Device desc: Plus (Black, 32 GB)4.517,665 Ratings & 2,046 Reviews32 GB ROM |13.97 cm (5.5 inch) Retina HD Display12MP + 12MP | 7MP Front CameraApple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processoriOS 13 CompatibleBrand Warranty of 1 Year.
+Device name: Apple iPhone 8 
+Device desc: (Space Grey, 64 GB)4.55,333 Ratings & 401 Reviews64 GB ROM |11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessoriOS 13 CompatibleBrand Warranty of 1 Year.
+Device name: Apple iPhone 11
+Device desc:  (Black, 64 GB)4.72,138 Ratings & 266 Reviews64 GB ROM |15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year.
+Device name: Apple iPhone 11
+Device desc:  (White, 128 GB)4.72,138 Ratings & 266 Reviews128 GB ROM |15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year.
+Device name: Apple iPhone 8 
+Device desc: (Gold, 64 GB)4.55,333 Ratings & 401 Reviews64 GB ROM |11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessoriOS 13 CompatibleBrand Warranty of 1 Year.
+Device name: Apple iPhone 11
+Device desc:  (Black, 128 GB)4.72,138 Ratings & 266 Reviews128 GB ROM |15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year.
+Device name: Apple iPhone 8 
+Device desc: (Silver, 64 GB)4.55,333 Ratings & 401 Reviews64 GB ROM |11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 7MP Front CameraA11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor ProcessoriOS 13 CompatibleBrand Warranty of 1 Year.
+Device name: Apple iPhone 11
+Device desc:  (Purple, 64 GB)4.72,138 Ratings & 266 Reviews64 GB ROM |15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year.
+Device name: Apple iPhone 11
+Device desc:  (Purple, 128 GB)4.72,138 Ratings & 266 Reviews128 GB ROM |15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year.
+Device name: Apple iPhone 11
+Device desc:  (Green, 128 GB)4.72,138 Ratings & 266 Reviews128 GB ROM |15.49 cm (6.1 inch) Liquid Retina HD Display12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year.
+Device name: Apple iPhone XR
+Device desc:  (Black, 64 GB)4.66,180 Ratings & 530 Reviews64 GB ROM |15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year.
+Device name: Apple iPhone XR
+Device desc:  (White, 64 GB)4.66,180 Ratings & 530 Reviews64 GB ROM |15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year.
+Device name: Apple iPhone 6s
+Device desc:  (Space Grey, 32 GB)4.589,104 Ratings & 9,142 Reviews32 GB ROM |11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and Embedded M9 Motion Co-processorBrand Warranty of 1 Year.
+Device name: Apple iPhone XR
+Device desc:  (Black, 128 GB)4.66,180 Ratings & 530 Reviews128 GB ROM |15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year.
+Device name: Apple iPhone 11
+Device desc:  Pro (Midnight Green, 64 GB)4.7546 Ratings & 58 Reviews64 GB ROM |14.73 cm (5.8 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year.
+Device name: Apple iPhone 6s
+Device desc:  (Silver, 32 GB)4.589,104 Ratings & 9,142 Reviews32 GB ROM |11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and M9 Motion Co-processorBrand Warranty of 1 Year.
+Device name: Apple iPhone 6s
+Device desc:  (Gold, 32 GB)4.589,104 Ratings & 9,142 Reviews32 GB ROM |11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and Embedded M9 Motion Co-processorBrand Warranty of 1 Year.
+Device name: Apple iPhone 11
+Device desc:  Pro (Midnight Green, 256 GB)4.7546 Ratings & 58 Reviews256 GB ROM |14.73 cm (5.8 inch) Super Retina XDR Display12MP + 12MP + 12MP | 12MP Front CameraA13 Bionic Chip ProcessorBrand Warranty for 1 Year.
+Device name: Apple iPhone XR
+Device desc:  ((PRODUCT)RED, 128 GB)4.66,180 Ratings & 530 Reviews128 GB ROM |15.49 cm (6.1 inch) Display12MP Rear Camera | 7MP Front CameraA12 Bionic Chip ProcessoriOS 13 CompatibleBrand Warranty of 1 Year.
+Device name: Apple iPhone 6s
+Device desc:  (Rose Gold, 32 GB)4.589,104 Ratings & 9,142 Reviews32 GB ROM |11.94 cm (4.7 inch) Retina HD Display12MP Rear Camera | 5MP Front CameraApple A9 64-bit processor and M9 Motion Co-processorBrand Warranty of 1 Year.
